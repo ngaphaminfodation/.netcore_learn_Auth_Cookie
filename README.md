@@ -1,0 +1,1 @@
+# .netcore_learn_Auth_Cookie
